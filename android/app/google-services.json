@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296489899854",
+    "project_id": "sheride-fyp",
+    "storage_bucket": "sheride-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296489899854:android:e5d989ac8475b80bd9f01f",
+        "android_client_info": {
+          "package_name": "com.sheride_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2fVqALaSOFNgLOpKnZUuPoj4bM5fQFEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
